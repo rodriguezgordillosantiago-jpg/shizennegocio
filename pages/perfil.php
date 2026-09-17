@@ -233,12 +233,12 @@ $roleLabel = $isKitchen ? 'Cocina' : 'Administrador Negocio';
           </div>
         </div>
 
-        <!-- Formulario 2: Registrar Sub-Rol de Cocina -->
+        <!-- Formulario 2: Registrar Cocina -->
         <div class="card" style="border:2px solid #bfdbfe">
           <div class="card-header" style="background:#eff6ff">
             <div>
               <div class="card-title" style="color:#1e40af;display:flex;align-items:center;gap:8px">
-                🧑‍🍳 Registrar Sub-Rol de Cocina
+                🧑‍🍳 Registrar Cocina
               </div>
               <div class="card-subtitle" style="color:#3b82f6">
                 Crea usuarios dedicados exclusivamente a la vista de cocina para tu negocio
@@ -275,7 +275,7 @@ $roleLabel = $isKitchen ? 'Cocina' : 'Administrador Negocio';
               </div>
 
               <button type="submit" class="btn btn-primary" style="background:#2563eb;border:none">
-                <i class="bx bx-plus-circle"></i> Registrar Sub-Rol Cocina
+                <i class="bx bx-plus-circle"></i> Registrar Cocina
               </button>
             </form>
 
