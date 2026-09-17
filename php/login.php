@@ -173,11 +173,18 @@ $csrfToken = csrf_token();
       </p>
 
       <div style="margin-top:32px;padding:16px;background:#f9fafb;border-radius:8px;border:1px solid #e5e7eb">
-        <p style="font-size:12px;color:#6b7280;font-weight:600;margin-bottom:8px">CUENTAS DE PRUEBA</p>
+        <p style="font-size:12px;color:#6b7280;font-weight:600;margin-bottom:8px">CUENTAS DE PRUEBA (CONTRASEÑA: 123456)</p>
         <p style="font-size:13px;color:#374151;margin-bottom:4px">
-          <strong>Cuenta de prueba:</strong> admin@shizen.com / 12345678
+          <strong>Negocio 1:</strong> contacto@veganocentral.com
+        </p>
+        <p style="font-size:13px;color:#374151;margin-bottom:4px">
+          <strong>Negocio 2:</strong> contacto@ecomarketchapinero.com
+        </p>
+        <p style="font-size:13px;color:#374151;margin-bottom:4px">
+          <strong>Cocina 1:</strong> cocina1@shizen.com
         </p>
         <p style="font-size:13px;color:#374151">
+          <strong>Cocina 2:</strong> cocina2@shizen.com
         </p>
       </div>
     </div>

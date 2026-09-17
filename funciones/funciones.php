@@ -4,7 +4,6 @@ declare(strict_types=1);
 require_once __DIR__ . '/../clases/Usuario.php';
 
 if (session_status() !== PHP_SESSION_ACTIVE) {
-    session_name('shizen_negocio_session');
     session_start();
 }
 
